@@ -1,0 +1,68 @@
+nav {
+  background-color: #333;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  padding: 0;
+}
+
+body {
+  font-family: 'Adobe Caslon Pro', serif;
+  max-width: 400 px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 18px;
+}
+
+#berkeley-watercolor {
+  float: left;
+  max-width: 30%;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: justify;
+  margin-right: 20px;
+  margin-bottom: 20px;
+
+
+}
